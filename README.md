@@ -20,3 +20,7 @@ Module 3: Explore Coding & Collaboration PlatformsTo build familiarity with onli
 Module 4: Draft a Professional Email & Etiquette GuideClear digital communication is critical for academic and professional success. I drafted two formal emails—one requesting a deadline extension and another applying for an internship—adhering to strict professional formatting rules. I also compiled a Do's and Don'ts checklist for responsible social media use.
 
 Module 5: Cybercrime Awareness Case Study & Prevention GuideTo help peers recognize online threats , I researched UPI and Online Payment Fraud to write a detailed case study. Accompanying this is a 'Stay Safe Online' prevention checklist tailored for college students in India, highlighting actionable steps to protect financial data and outlining proper reporting channels like the National Cyber Crime Portal
+
+
+Link of the Google Quiz form :
+https://forms.gle/NMt3ZCSTZCiziKKt7
