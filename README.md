@@ -4,10 +4,9 @@ This repository serves as my complete Digital Literacy Portfolio, created for my
 
 My Profile:
 
-Name:Guggilam Bala Yoshik
-Registration Number:25BAC10024
-Branch:ECE(AI and Cybernetics)
-
+Name:Guggilam Bala Yoshik            
+Registration Number:25BAC10024                                        
+Branch:ECE(AI and Cybernetics)        
 
 
 Module Summaries : 
