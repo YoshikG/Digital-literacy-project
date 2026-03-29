@@ -1,7 +1,7 @@
 Project OverviewThis repository serves as my complete Digital Literacy Portfolio, created for my role as a Student Digital Ambassador. The goal of this project is to showcase essential digital skills required to navigate the online world safely and professionally. It includes visual resources, professional profile setups, coding practice evidence, communication guides, and cybercrime awareness materials.
 
-My Prfole:
-Student InformationName:Guggilam Bala Yoshik
+My Profle:
+Name:Guggilam Bala Yoshik
 Registration Number:25BAC10024
 Branch:ECE(AI and Cybernetics)
 
